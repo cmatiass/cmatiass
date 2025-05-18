@@ -25,10 +25,10 @@ I'm focused on solving real-world problems using **Data** and **Artificial Intel
 
 ## 📫 Get in Touch
 
-If you'd like to collaborate, connect, or just have a chat about data science, feel free to reach out:
+If you'd like to collaborate, connect, or just have a chat about data science or AI, feel free to reach out:
 
-📧 **f72masac@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlosmatiassaez/)
+- 📧 Email: **f72masac@gmail.com**
+- 🔗 [Portfolio Web](https://portfolio-z2ng.onrender.com/)
 
 ---
-
-Thanks for stopping by! 🌟
