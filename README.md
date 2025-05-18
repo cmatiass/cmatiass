@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm a Data Scientist passionate about AI and innovation!
-
-![Data Science Banner](https://raw.githubusercontent.com/rajat2502/rajat2502/main/assets/data-science-banner.png)
+# 👋 Hi there, I'm Carlos.
 
 Welcome to my GitHub profile!  
 I'm focused on solving real-world problems using **Data** and **Artificial Intelligence**, always with a collaborative mindset and a hunger for learning.
