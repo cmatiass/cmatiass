@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm a Data Scientist passionate about AI and innovation!
 
+![Data Science Banner](https://images.unsplash.com/photo-1534759846116-5799c30f0be1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80)
+
 Welcome to my GitHub profile!  
 I'm focused on solving real-world problems using **Data** and **Artificial Intelligence**, always with a collaborative mindset and a hunger for learning.
 
