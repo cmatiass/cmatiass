@@ -3,7 +3,6 @@
 Welcome to my GitHub profile!  
 I'm focused on solving real-world problems using **Data** and **Artificial Intelligence**, always with a collaborative mindset and a hunger for learning.
 
-![Descripción del GIF](https://media.giphy.com/media/abc123/giphy.gif)
 
 ---
 
