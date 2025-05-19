@@ -3,6 +3,8 @@
 Welcome to my GitHub profile!  
 I'm focused on solving real-world problems using **Data** and **Artificial Intelligence**, always with a collaborative mindset and a hunger for learning.
 
+![image](https://github.com/user-attachments/assets/fb91801a-c1d8-4b17-9929-1ebd9cd94bd8)
+
 ---
 
 ## 🚀 About Me
