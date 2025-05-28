@@ -32,7 +32,7 @@ I'm focused on solving real-world problems using **Data** and **Artificial Intel
 If you'd like to collaborate, connect, or just have a chat about data science or AI, feel free to reach out:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlosmatiassaez/)
-- 📧 Email: **f72masac@gmail.com**
+- 📧 **f72masac@gmail.com**
 - 🔗 [Portfolio Web](https://portfolio-z2ng.onrender.com/)
 
 ---
