@@ -29,7 +29,7 @@ I'm focused on solving real-world problems using **Data** and **Artificial Intel
 
 ## 📂 My Latest Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=portfolio&theme=dark)](https://github.com/carlosmatiassaez/LangGraph-Marketing-Agent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=LangGraph-Marketing-Agent&theme=dark)](https://github.com/carlosmatiassaez/LangGraph-Marketing-Agent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmtiass&repo=REPO_NAME_2&theme=dark)](https://github.com/carlosmatiassaez/REPO_NAME_2)
 
 ## 📊 GitHub Stats
