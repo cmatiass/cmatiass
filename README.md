@@ -27,15 +27,17 @@ I'm focused on solving real-world problems using **Data** and **Artificial Intel
 
 ---
 
-## 📂 My Latest Repositories
+## 📂 Some Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=LangGraph-Marketing-Agent&theme=dark)](https://github.com/carlosmatiassaez/LangGraph-Marketing-Agent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmtiass&repo=REPO_NAME_2&theme=dark)](https://github.com/carlosmatiassaez/REPO_NAME_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=Reinforcement-Learning_2&theme=dark)](https://github.com/cmatiass/Reinforcement-Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=Network-Security-Project_2&theme=dark)](https://github.com/cmatiass/Network-Security-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=Text_Summarizer_AI_2&theme=dark)](https://github.com/cmatiass/Text_Summarizer_AI)
 
 ## 📊 GitHub Stats
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmatiassaez&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmatiassaez&layout=compact&theme=dark)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmatiass&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmatiass&layout=compact&theme=dark)
 
 ---
 
