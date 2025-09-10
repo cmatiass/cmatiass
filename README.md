@@ -27,6 +27,18 @@ I'm focused on solving real-world problems using **Data** and **Artificial Intel
 
 ---
 
+## 📂 My Latest Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosmatiassaez&repo=portfolio&theme=dark)](https://github.com/carlosmatiassaez/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosmatiassaez&repo=REPO_NAME_2&theme=dark)](https://github.com/carlosmatiassaez/REPO_NAME_2)
+
+## 📊 GitHub Stats
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmatiassaez&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmatiassaez&layout=compact&theme=dark)
+
+---
+
 ## 📫 Get in Touch
 
 If you'd like to collaborate, connect, or just have a chat about data science or AI, feel free to reach out:
