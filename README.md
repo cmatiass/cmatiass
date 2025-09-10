@@ -30,9 +30,9 @@ I'm focused on solving real-world problems using **Data** and **Artificial Intel
 ## 📂 Some Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=LangGraph-Marketing-Agent&theme=dark)](https://github.com/carlosmatiassaez/LangGraph-Marketing-Agent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=Reinforcement-Learning_&theme=dark)](https://github.com/cmatiass/Reinforcement-Learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=Network-Security-Project_&theme=dark)](https://github.com/cmatiass/Network-Security-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=Text_Summarizer_AI_&theme=dark)](https://github.com/cmatiass/Text_Summarizer_AI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=Reinforcement-Learning&theme=dark)](https://github.com/cmatiass/Reinforcement-Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=Network-Security-Project&theme=dark)](https://github.com/cmatiass/Network-Security-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmatiass&repo=Text_Summarizer_AI&theme=dark)](https://github.com/cmatiass/Text_Summarizer_AI)
 
 ## 📊 GitHub Stats
 
